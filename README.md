@@ -1,4 +1,4 @@
-# GitHub Action to Create Releases Based on a Keyword
+# GitHub Action to Create Releases Based on a Keyword -f
 The Keyword Releaser will create a release based on the keyword specified in the arguments.
 
 # Environment Variables
